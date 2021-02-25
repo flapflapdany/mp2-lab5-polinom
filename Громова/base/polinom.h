@@ -5,7 +5,6 @@
 #include <vector>
 #include "list.h"
 #include "monom.h"
-
 using namespace std;
 
 class Polinom
