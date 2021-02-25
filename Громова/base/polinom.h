@@ -7,7 +7,6 @@
 #include "monom.h"
 
 using namespace std;
-
 class Polinom
 {
 	string polinom;
