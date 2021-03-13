@@ -11,7 +11,7 @@ void Polinom::ToWriteMonom()
 	int i = 0;
 	monom.DeleteAllNodes();
 	vector<string> monoms;//для записи мономов;
-	while(i < polinom.size())//разделяем полином на мономы и записываем в вектор;
+	while(i < polinom.size())//разделяем полином на мономы и записываем в вектор
 	{
 		string monom1;
 		do
